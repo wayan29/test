@@ -1,0 +1,137 @@
+#EXTM3U
+#EXTINF:-1, == SULUK IPTV ==
+https://s20.postimg.cc/ydeutauwd/IPTV_LOGOKU.png
+#EXTINF:-1,Suluk® → USEETV SPORT
+http://edge.telin.useetv.com/sc/useesport_720p.m3u8
+#EXTINF:-1,Suluk® → RCTI
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511532707866226/1024.m3u8
+#EXTINF:-1,Suluk® → MNC
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511111714365733/1024.m3u8
+#EXTINF:-1,Suluk® → INEWS
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511541532132975/1024.m3u8
+#EXTINF:-1,Suluk® → GLOBALTV
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511505498448705/1024.m3u8
+#EXTINF:-1,Suluk® → SCTV
+http://202.80.222.6/mnt/tmpfs/hls/001/001/ch15010918464887721048/1024.m3u8
+#EXTINF:-1,Suluk® → INDOSIAR
+http://202.80.222.6/mnt/tmpfs/hls/001/001/ch15051810235326945512/1024.m3u8
+#EXTINF:-1,Suluk® → TRANS TV
+http://202.80.222.6/mnt/tmpfs/hls/001/001/ch14041511552652254306/1024.m3u8
+#EXTINF:-1,Suluk® → TRANS 7
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511545447343123/1024.m3u8
+#EXTINF:-1,Suluk® → ANTV
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+#EXTINF:-1,Suluk® → NET
+http://lihattv.com/?play=43396
+#EXTINF:-1,Suluk® → NET HD
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+#EXTINF:-1,Suluk® → KOMPAS TV
+http://210.210.155.35/qwr9ew/s/s09/index1.m3u8
+#EXTINF:-1,Suluk® → TV ONE
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14061215030555428637/1024.m3u8
+#EXTINF:-1,Suluk® → TVRI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInasional)/Stream(03)/index.m3u8
+#EXTINF:-1,Suluk® → TVRI SPORT
+http://lihattv.com/?play=43422
+#EXTINF:-1,Suluk® → METRO TV
+http://210.210.155.35/qwr9ew/s/s49/index1.m3u8
+#EXTINF:-1,Suluk® → CNN_INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:-1,Suluk® → BERITA_SATU_HD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+#EXTINF:-1,Suluk® → RCTV
+http://lihattv.com/?play=43254
+#EXTINF:-1,Suluk® → TVRI SPORT
+http://lihattv.com/?play=43422
+#EXTINF:-1,Suluk® → NIRWANA TV
+http://lihattv.com/?play=43257
+#EXTINF:-1,Suluk® → JAWAPOS TV
+http://lihattv.com/?play=43263
+#EXTINF:-1,Suluk® → JTV
+http://lihattv.com/?play=43272
+#EXTINF:-1,Suluk® → RTV
+http://210.210.155.35/qwr9ew/s/s12/index1.m3u8
+#EXTINF:-1,Suluk® → TV_MUHAMMADIYAH
+rtmp://118.97.183.222:1935/discover/muhammadiyahtv
+#EXTINF:-1,Suluk® → ICTA TV
+http://lihattv.com/?play=43310
+#EXTINF:-1,Suluk® → KLIK MUSIC
+http://lihattv.com/?play=43211
+#EXTINF:-1,Suluk® → RBTV
+http://lihattv.com/?play=43230
+#EXTINF:-1,Suluk® → RODJA TV
+http://210.210.155.35/qwr9ew/s/s14/index1.m3u8
+#EXTINF:-1,Suluk® → FILM INDO
+http://lihattv.com/?play=43192
+#EXTINF:-1,Suluk® → BTV
+http://lihattv.com/?play=43251
+#EXTINF:-1,Suluk® → JPNN TV
+http://lihattv.com/?play=43275
+#EXTINF:-1,Suluk® → MNC NEWS
+http://lihattv.com/?play=43111
+#EXTINF:-1,Suluk® → MNC SHOP
+http://lihattv.com/?play=43421
+#EXTINF:-1,Suluk® → MNC LIFESTYLE
+http://lihattv.com/?play=43117
+#EXTINF:-1,Suluk® → CHANEL NEWS ASIA
+http://lihattv.com/?play=43361
+#EXTINF:-1,Suluk® → ELSHINTA TV
+http://lihattv.com/?play=43394
+#EXTINF:-1,Suluk® → THE INDONESIA CHANNEL
+http://lihattv.com/?play=43307
+#EXTINF:-1,Suluk® → FOX LIFE
+http://lihattv.com/?play=43342
+#EXTINF:-1,Suluk® → MY CINEMA
+http://lihattv.com/?play=43427
+#EXTINF:-1,Suluk® → KIX
+http://lihattv.com/?play=43340
+#EXTINF:-1,Suluk® → BLACK DIAMOND
+http://lihattv.com/?play=43212
+#EXTINF:-1,Suluk® → GOLD DIAMOND
+http://lihattv.com/?play=43221
+#EXTINF:-1,Suluk® → AVAVA DIAMOND
+http://lihattv.com/?play=43218
+#EXTINF:-1,Suluk® → RED DIAMOND
+http://lihattv.com/?play=43224
+#EXTINF:-1,Suluk® → KOREA DRAMA
+http://lihattv.com/?play=43420
+#EXTINF:-1,Suluk® → K+
+http://lihattv.com/?play=43343
+#EXTINF:-1,Suluk® → V CHANNEL
+http://lihattv.com/?play=43419
+#EXTINF:-1,Suluk® → THRILL
+http://lihattv.com/?play=43415
+#EXTINF:-1,Suluk® → CELESTRIAL MOVIE
+http://lihattv.com/?play=43414
+#EXTINF:-1,Suluk® → ZEE BISOKOP
+http://lihattv.com/?play=43413
+#EXTINF:-1,Suluk® → AVAVA BOLYWOOD
+http://lihattv.com/?play=43208
+#EXTINF:-1,Suluk® → FOX
+http://lihattv.com/?play=43346
+#EXTINF:-1,Suluk® → FOX FAMILY MOVIES
+http://lihattv.com/?play=43352
+#EXTINF:-1,Suluk® → FOX ACTION MOVIES
+http://lihattv.com/?play=43351
+#EXTINF:-1,Suluk® → FOX LIFE
+http://lihattv.com/?play=43342
+#EXTINF:-1,Suluk® → MY CINEMA
+http://lihattv.com/?play=43427
+#EXTINF:-1,Suluk® → KIX
+http://lihattv.com/?play=43340
+#EXTINF:-1,Suluk® → FOX SPORT HK
+http://lihattv.com/?play=43359
+#EXTINF:-1,Suluk® → FOX SPORT 1
+http://lihattv.com/?play=43353.m3u
+#EXTINF:-1,Suluk® → FOX SPORT 2
+http://lihattv.com/?play=43354
+#EXTINF:-1,Suluk® → FOX SPORT 3
+http://lihattv.com/?play=43355
+#EXTINF:-1,Suluk® → NATIONAL GEOGRAPHIC
+http://lihattv.com/?play=43347
+#EXTINF:-1,Suluk® → NAT GEO WILD
+http://lihattv.com/?play=43348
+#EXTINF:-1,Suluk® → CGTN DOCUMENTARY
+http://lihattv.com/?play=43404
+
+
